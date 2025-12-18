@@ -2,7 +2,7 @@
 //  LoadingAndSkeletonPackApp.swift
 //  LoadingAndSkeletonPack
 //
-//  Created by Sopnil Sohan on 18/12/25.
+//  Created by Sabbir Hossan on 18/12/25.
 //
 
 import SwiftUI
